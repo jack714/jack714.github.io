@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Past Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stony Brook University Cybersecurity Lab](/PyDistAlgo)
+<img src="images/pydistalgo-profile.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
