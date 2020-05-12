@@ -5,7 +5,7 @@
 ### Past Projects
 
 [Stony Brook University Cybersecurity Lab](/PyDistAlgo)
-<img src="images/pydistalgo-profile.png?raw=true"/>
+<img src="images/pydistalgo-profile.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
