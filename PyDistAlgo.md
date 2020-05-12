@@ -1,6 +1,6 @@
 ## Stony Brook University Cybersecurity Lab
 
-**Project description:** I participated as Lab Assistant in the Stony Brook University's Cybersecurity Lab. Self-studied the language PyDistAlgo, which is a high-level security protocol language programmed by SBU professors based on Python. I implemented several protocols based on the protocol logics from the [SPORE repository](http://www.lsv.fr/Software/spore/).
+**Project description:** I participated as Lab Assistant in the Stony Brook University's Cybersecurity Lab. Self-studied the language PyDistAlgo, which is a high-level security protocol language programmed by SBU professors based on Python. I implemented several protocols based on the protocol logics from the [SPORE repository](http://www.lsv.fr/Software/spore/ target="_blank").
 
 ### 1. SPLICE-AS code snapshot
 
