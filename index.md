@@ -8,7 +8,7 @@
 <img src="images/pydistalgo-profile.PNG?raw=true"/>
 
 ---
-[University of Florida Civil Engineering Lab](/SSTP.md)
+[University of Florida Civil Engineering Lab](/SSTP.md) <br><br>
 <img src="images/20000 side 305.jpg?raw=true"/>
 
 ---
