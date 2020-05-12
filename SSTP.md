@@ -4,7 +4,7 @@
 
 ### 1. Simulation of carbon nanotube's interaction with water molecules
 
-<img src="images/nanotube interaction.jpg?raw=true"/>
+<img src="images/nanotube interacction.jpg?raw=true"/>
 
 ### 2. Zoom picture of kaolinite model
 
