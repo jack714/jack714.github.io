@@ -19,4 +19,4 @@ Achieved second-lowest paid marketing Customer Acquisition Cost of $0.52 and per
 
 ### 3. National Campaign Plan
 
-<img src="images/national campaign.png?raw=true"/>
+<img src="images/national campaign.jpg?raw=true"/>
