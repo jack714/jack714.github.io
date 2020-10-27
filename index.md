@@ -5,7 +5,7 @@
 ### Past Projects
 
 [Scoutible Entrepreneur Fellowship](/Scoutible.md) <br><br>
-<img src="images/Scoutible.PNG?raw=true"/>
+<img src="images/Scoutible.jpg?raw=true"/>
 
 ---
 
