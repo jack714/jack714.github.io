@@ -10,11 +10,11 @@ Achieved second-lowest paid marketing Customer Acquisition Cost of $0.52 and per
 
 ### 1. Personal Campaign snapshot
 
-<img src="images/Personal_Campaign.jpg?raw=true"/>
+<img src="images/Personal Campaign.png?raw=true"/>
 
 ### 2. Group Campaign snapshot
 
-<img src="images/Group Campaign.jpg?raw=true"/>
+<img src="images/Group Campaign.png?raw=true"/>
 
 ### 3. Success connection between computers
 
