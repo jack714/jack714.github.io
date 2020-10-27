@@ -4,6 +4,11 @@
 
 ### Past Projects
 
+[Scoutible Entrepreneur Fellowship](/Scoutible.md) <br><br>
+<img src="images/pydistalgo-profile.PNG?raw=true"/>
+
+---
+
 [Stony Brook University Cybersecurity Lab](/PyDistAlgo.md) <br><br>
 <img src="images/pydistalgo-profile.PNG?raw=true"/>
 
