@@ -5,7 +5,7 @@
 ### Past Projects
 
 [Scoutible Entrepreneur Fellowship](/Scoutible.md) <br><br>
-<img src="images/pydistalgo-profile.PNG?raw=true"/>
+<img src="images/Scoutible.PNG?raw=true"/>
 
 ---
 
