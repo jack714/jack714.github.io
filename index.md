@@ -2,7 +2,7 @@
 
 ---
 
-### Past Projects
+### Past Projects and Experience
 
 [Scoutible Entrepreneur Fellowship](/Scoutible.md) <br><br>
 <img src="images/Scoutible.jpg?raw=true"/>
