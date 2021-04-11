@@ -4,6 +4,11 @@
 
 ### Past Projects and Experience
 
+[University of Michigan Radiation Health Engineering Lab](/GCA.md) <br><br>
+<img src="images/TLD-100.jpg?raw=true"/>
+
+---
+
 [Scoutible Entrepreneur Fellowship](/Scoutible.md) <br><br>
 <img src="images/Scoutible.jpg?raw=true"/>
 
