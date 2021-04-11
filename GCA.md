@@ -1,6 +1,7 @@
 ## Radiation Health Engineering Lab Glow Curve Analysis Research      Fall 2020 - Winter 2021
 
 **Project description:** 
+
 I participated as an Undergraduate Research Opportunity Program researcher in the RHE lab. Under Professor Kim Kearfott's guidance, I worked closely with lab member Jack Thiesen to develop a new glow curve analysis software.
 
 Thermoluminescent dosimeters integrate incoming ionizing radiation dose and release photons proportional to it. When heat is applied to the material, peaks in the emitted light occur at different temperatures corresponding to characteristic quantum states. Separating these peaks may be done through fitting the data to thermoluminescence models, in a process called glow curve analysis. This analysis reveals information about signal fading and has the potential to improve dose quantitation.
