@@ -8,7 +8,7 @@ Thermoluminescent dosimeters integrate incoming ionizing radiation dose and rele
 
 In the research, I coded a software using C++ that automatically subtracts the background noises from raw data, removes any discontinuous spikes, and identifies the peaks. A light version of the Savitzky-Golay algorithm is implemented to smooth data. I designed a low-pass filter to remove spikes and used gradient descent to further process the identified peaks. The final software fits the approximate curve for each peak according to first-order kinetic physics and outputs a figure of merit for the fit. The final executable compatible with different computer systems allows greater portability.
 
-I participated in the Engineering Research Symposium hosted by University of Michigan and presented a poster on the spike-removal algorithm.
+I attended the Engineering Research Symposium hosted by University of Michigan and presented a poster on the spike-removal algorithm.
 
 The glow curve analysis team was invited to the exclusive MTV workshop and presented a poster on our software.
 
